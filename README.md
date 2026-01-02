@@ -1,4 +1,6 @@
----
+![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)
+![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)
+![License](https://img.shields.io/github/license/yourusername/repo)
 
 ## 🚀 Projects
 
