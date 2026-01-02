@@ -10,4 +10,6 @@
 - **Features:** Client-side processing, bulk hashing, and exportable reports.
 - **Tech Stack:** HTML5, JavaScript, CSS3
 
+- [![Discord](https://img.shields.io/discord/YOUR_SERVER_ID?label=Join%20the%20Community&logo=discord&style=for-the-badge)](YOUR_INVITE_LINK)
+
 ---
