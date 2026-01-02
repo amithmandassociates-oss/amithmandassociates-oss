@@ -16,5 +16,8 @@
 - [ ] **Q2 2026**: Implement a "Compare Hashes" feature (Standard vs. Evidence).
 - [ ] **Q3 2026**: Mobile App wrapper using Capacitor.
 - [![Discord](https://img.shields.io/discord/YOUR_SERVER_ID?label=Join%20the%20Community&logo=discord&style=for-the-badge)](YOUR_INVITE_LINK)
-
----
+## 🤝 Contributors
+Thanks to these wonderful people who help make this tool better!
+<a href="https://[github.com/amithmandassociates-oss/hash-report-tool/repo/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=amithmandassociates-oss/hash-report-tool/repo" />
+</a>
