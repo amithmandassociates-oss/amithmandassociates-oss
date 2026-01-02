@@ -3,7 +3,7 @@
 ## 🚀 Projects
 
 ### [Bulk Hash Report Tool](https://www.johnmoris.com)
-![Bulk Hash Report Preview](screenshot.png)
+[![Bulk Hash Report Preview](screenshot.png)](https://www.johnmoris.com)
 ![Site Status](https://img.shields.io/website?url=https%3A%2F%2Fwww.yourdomain.com)
 > A web-based utility for generating and managing bulk cryptographic hashes.
 - **Hosted on:** GitHub Pages via Custom Squarespace Domain
