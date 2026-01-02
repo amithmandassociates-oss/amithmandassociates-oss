@@ -1,17 +1,12 @@
-## Hi there 👋
+---
 
-<!--
-**amithmandassociates-oss/amithmandassociates-oss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Projects
 
-Here are some ideas to get you started:
+### [Bulk Hash Report Tool](https://www.johnmoris.com)
+![Site Status](https://img.shields.io/website?url=https%3A%2F%2Fwww.yourdomain.com)
+> A web-based utility for generating and managing bulk cryptographic hashes.
+- **Hosted on:** GitHub Pages via Custom Squarespace Domain
+- **Features:** Client-side processing, bulk hashing, and exportable reports.
+- **Tech Stack:** HTML5, JavaScript, CSS3
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
- 
+---
